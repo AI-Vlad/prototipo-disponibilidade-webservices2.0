@@ -34,7 +34,7 @@
 Page Header
 ***/
 .pulse {
-  animation: pulse 0.7s infinite;
+  animation: pulse 1.0s infinite;
   margin: 0 auto;
   display: table;
  
@@ -50,7 +50,7 @@ Page Header
   }
   100% {
     -webkit-transform: scale(1.1);
-    -webkit-filter: brightness(200%);
+    -webkit-filter: brightness(110%);
   }
 }
 
@@ -61,7 +61,7 @@ Page Header
   }
   100% {
     transform: scale(1.1);
-    filter: brightness(120%);
+    filter: brightness(110%);
   }
 }
 
